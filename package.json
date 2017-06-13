@@ -1,0 +1,22 @@
+{
+  "name": "r3pi-z",
+  "version": "1.0.0",
+  "description": "shopping basket price calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattyod/R3PI-Z.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Matthew O'Donoghue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattyod/R3PI-Z/issues"
+  },
+  "homepage": "https://github.com/mattyod/R3PI-Z#readme"
+}
